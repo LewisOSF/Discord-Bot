@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "name": "aquilarp",
+  "description": "* Discord Bot for ARP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LewisOSF/Discord-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LewisOSF/Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/LewisOSF/Discord-Bot#readme"
+}
