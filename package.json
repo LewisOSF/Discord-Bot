@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "name": "discord-bot",
+  "description": "* Discord Bot for ARP",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LewisOSF/Discord-Bot.git"
+  },
+  "author": "LewisOSF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LewisOSF/Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/LewisOSF/Discord-Bot#readme"
+}
